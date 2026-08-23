@@ -1,0 +1,4 @@
+Python is easy to learn.
+Python is used for web development.
+Python is used in data science.
+Python is also used in AI.
